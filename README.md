@@ -9,4 +9,4 @@ The code is unorganised and contains different experimental modules. Readers are
 * The training for ECG R-peak localisation, and beat classification tasks were shown in train_sincnet.py, and train_beat_classify.py respectively. 
 * debug_filter.py shows the generation of explanation-vector by modifying the sinc-CNN model in such a way that it can mask each input sample at a time and measure the delta of the output. 
 
-
+For rurther communication, send email to the corresponding author or mahabib.deakin@gmail.com
